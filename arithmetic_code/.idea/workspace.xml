@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11d9591f-8cce-4d93-b890-5d0cc5b632ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="11d9591f-8cce-4d93-b890-5d0cc5b632ac" name="Default" comment="两个有序数组合并">
+      <change afterPath="$PROJECT_DIR$/src/com/web/arith/mergearry/Applicationmergearry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/web/arith/mergearry/OperationArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arithmetic_code/com/web/arith/bubble/ApplicationBubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arithmetic_code/com/web/arith/bubble/ApplicationBubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arithmetic_code/com/web/arith/bubble/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arithmetic_code/com/web/arith/bubble/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/web/arith/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/web/arith/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/web/arith/insert/ApplicationInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/web/arith/insert/ApplicationInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/web/arith/insert/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/web/arith/insert/InsertSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ApplicationBubble.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ApplicationBubble.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="126">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -27,13 +34,31 @@
       <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/web/arith/bubble/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="397">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationQuick.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Applicationmergearry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/arith/mergearry/Applicationmergearry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperationArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/web/arith/mergearry/OperationArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-118">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationQuick.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/web/arith/quick/ApplicationQuick.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -49,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/web/arith/insert/ApplicationInsert.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -57,8 +82,8 @@
       <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/web/arith/insert/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="54">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -98,11 +123,16 @@
         <option value="$PROJECT_DIR$/src/com/web/arith/com/web/bubble/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/web/arith/MaoPao.java" />
         <option value="$PROJECT_DIR$/src/com/web/arith/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java" />
         <option value="$PROJECT_DIR$/src/com/web/arith/quick/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/com/web/arith/quick/ApplicationQuick.java" />
         <option value="$PROJECT_DIR$/src/com/web/arith/insert/ApplicationInsert.java" />
         <option value="$PROJECT_DIR$/src/com/web/arith/insert/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/com/web/arith/mergearry/ArrayOperation.java" />
+        <option value="$PROJECT_DIR$/src/com/web/arith/mergearry/ApplicationInsert.java" />
+        <option value="$PROJECT_DIR$/src/com/web/arith/mergearry/Applicationmergearry.java" />
+        <option value="$PROJECT_DIR$/src/com/web/arith/mergearry/OperationArray.java" />
+        <option value="$PROJECT_DIR$/src/com/web/arith/bubble/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java" />
       </list>
     </option>
   </component>
@@ -124,7 +154,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -159,6 +189,13 @@
               <item name="arithmetic_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="arith" type="462c0819:PsiDirectoryNode" />
+              <item name="bubble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmetic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmetic_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arith" type="462c0819:PsiDirectoryNode" />
               <item name="insert" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -166,7 +203,7 @@
               <item name="arithmetic_code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="arith" type="462c0819:PsiDirectoryNode" />
-              <item name="quick" type="462c0819:PsiDirectoryNode" />
+              <item name="mergearry" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,6 +224,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.web.arith.mergearry" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -199,14 +241,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ApplicationQuick">
-    <configuration name="ApplicationBubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.web.arith.com.web.bubble.ApplicationBubble" />
+  <component name="RunManager">
+    <configuration name="ApplicationBubble (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.arith.bubble.ApplicationBubble" />
       <module name="arithmetic_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.web.arith.com.web.bubble.*" />
+          <option name="PATTERN" value="com.web.arith.bubble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ApplicationInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.arith.insert.ApplicationInsert" />
+      <module name="arithmetic_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.arith.insert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,13 +275,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MainClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.web.arith.MainClass1" />
+    <configuration name="Applicationmergearry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.arith.mergearry.Applicationmergearry" />
       <module name="arithmetic_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.web.arith.bubble.*" />
+          <option name="PATTERN" value="com.web.arith.mergearry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,17 +339,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MainClass1" />
       <item itemvalue="Application.MaoPao" />
-      <item itemvalue="Application.ApplicationBubble" />
       <item itemvalue="Application.ApplicationQuick" />
+      <item itemvalue="Application.ApplicationInsert" />
+      <item itemvalue="Application.ApplicationBubble (1)" />
+      <item itemvalue="Application.Applicationmergearry" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Applicationmergearry" />
+        <item itemvalue="Application.ApplicationBubble (1)" />
+        <item itemvalue="Application.ApplicationInsert" />
         <item itemvalue="Application.ApplicationQuick" />
         <item itemvalue="Application.MaoPao" />
-        <item itemvalue="Application.ApplicationBubble" />
-        <item itemvalue="Application.MainClass1" />
       </list>
     </recent_temporary>
   </component>
@@ -311,36 +366,37 @@
       <option name="presentableId" value="Default" />
       <updated>1629096444080</updated>
       <workItem from="1629096445413" duration="12156000" />
-      <workItem from="1629198395336" duration="769000" />
+      <workItem from="1629198395336" duration="15253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12925000" />
+    <option name="totallyTimeSpent" value="27409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4911147" visible="true" weight="0.32876712" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5088853" side_tool="true" visible="true" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37899545" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49434572" weight="0.37899545" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.32876712" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2641357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2641357" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39878234" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919224" weight="0.49923897" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,7 +404,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32876712" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,9 +412,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="两个有序数组合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="两个有序数组合并" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -411,38 +470,10 @@
     <entry file="file://$PROJECT_DIR$/src/Application.java" />
     <entry file="file://$PROJECT_DIR$/src/com/web/arith/MainClass1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/web/arith/MaoPao.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/web/arith/bubble/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/web/arith/quick/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/web/arith/insert/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/web/arith/insert/ApplicationInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -453,6 +484,48 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/arith/insert/ApplicationInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/arith/mergearry/Applicationmergearry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/arith/mergearry/OperationArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/arith/bubble/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/arith/insert/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/web/arith/bubble/ApplicationBubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
