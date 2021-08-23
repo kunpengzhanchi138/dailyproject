@@ -6,7 +6,11 @@
 .idea
 *.iml
 out
-gen
+.DS_Store
+ ../.DS_Store
+
+
+#gen
 #.gitignore
 #.idea/workspace.xml
 #out/production/arithmetic_code/com/web/arith/insert/
