@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11d9591f-8cce-4d93-b890-5d0cc5b632ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/web/arith/Application.java" afterDir="false" />
+    <list default="true" id="11d9591f-8cce-4d93-b890-5d0cc5b632ac" name="Default" comment="合并面试常用算法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +52,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -156,11 +159,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainClass1" />
-      <item itemvalue="Application.MaoPao" />
       <item itemvalue="Application.ApplicationBubble" />
       <item itemvalue="Application.ApplicationQuick" />
       <item itemvalue="Application.Application" />
+      <item itemvalue="Application.MainClass1" />
+      <item itemvalue="Application.MaoPao" />
     </list>
     <recent_temporary>
       <list>
@@ -184,6 +187,14 @@
       <updated>1629096444080</updated>
       <workItem from="1629096445413" duration="12156000" />
     </task>
+    <task id="LOCAL-00001" summary="合并面试常用算法">
+      <created>1629376199004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629376199004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -191,6 +202,40 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="合并面试常用算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="合并面试常用算法" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2" timestamp="1629376198888">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="297" y="23" width="846" height="829" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1629376198888" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1629606284991">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1629606284991" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1629606284991">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1629606284991" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1629606284991">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1629606284991" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1629606284991">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1629606284991" />
+    <state x="221" y="76" key="SettingsEditor" timestamp="1630142529928">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="221" y="76" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1630142529928" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1629376211996">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1629376211996" />
   </component>
   <component name="masterDetails">
     <states>
